@@ -1,0 +1,43 @@
+body{
+  background-color: #5cb85c;
+}
+
+.actual{
+  width:100%;
+}
+
+.btn-upd{
+  text-align: right;
+}
+
+.cell{
+  text-align: center;
+}
+
+.cent{
+  text-align: center;
+}
+
+
+.img-div{
+  margin-top:2%;
+}
+
+.login{
+  background-color: #5cb85c;
+  margin-bottom: 2.5%
+}
+
+#cont{
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+}
+
+#cont-dtl{
+  margin-top: 2.5%;
+}
+
+
+#imgPreview{
+  width: 100%;
+}

@@ -1,0 +1,37 @@
+
+body{
+  background-color: #5cb85c;
+}
+
+.cell{
+  text-align: center;
+}
+
+.login{
+  background-color: #5cb85c;
+  margin-bottom: 2.5%
+}
+
+
+#cont{
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+}
+
+#date{
+  margin-bottom: 10px;
+}
+
+#eta{
+  text-align: center;
+  margin-top: 5%;
+}
+
+
+#imgPreview{
+  width: 100%;
+}
+
+#refresh{
+  margin-top: 5%;
+}
